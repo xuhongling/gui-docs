@@ -6,7 +6,7 @@
 
 ## 文档
 
-- 中文文档地址为[gui-doc](https://github.com/xuhongling/gui-doc)，采用 Vitepress 开发。如发现文档有误，欢迎提 pr 帮助我改进。
+- 中文文档地址为[gui-docs](https://github.com/xuhongling/gui-docs)，采用 Vitepress 开发。如发现文档有误，欢迎提 pr 帮助我改进。
 
 ### 安装使用
 
