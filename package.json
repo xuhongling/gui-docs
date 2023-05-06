@@ -1,0 +1,23 @@
+{
+  "name": "gui-docs",
+  "version": "0.1.0",
+  "description": "Gui documentation Chinese translation.",
+  "repository": "https://github.com/xuhongling/gui-docs",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "node ./scripts/build.js && vitepress build .",
+    "serve": "vitepress serve ."
+  },
+  "author": "xuhongling",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "gray-matter": "^4.0.3",
+    "lodash": "^4.17.21",
+    "vite": "^4.2.1",
+    "vitepress": "^1.0.0-alpha.75",
+    "vue": "^3.2.37",
+    "yorkie": "^2.0.0"
+  }
+}
